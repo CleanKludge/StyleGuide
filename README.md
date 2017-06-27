@@ -23,7 +23,7 @@
  Enum Members         | Upper Camel Case |                   | public enum **EnumMember**
 
 ### General Rules
-1. **Never abbreviate!**
+1. Try not to abbreviate!
 2. Make sure the name gives the reader context of what the subject is or does.
 3. Prefer using business domain names when possible.
 4. Avoid adding the design pattern name to the class name.
